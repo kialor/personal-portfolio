@@ -85,3 +85,11 @@ body {
     .col-sm-12 {
         background-color: #f9ecde;
     }
+
+
+    .footercontact {
+
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+    }
