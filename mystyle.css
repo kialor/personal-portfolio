@@ -1,0 +1,87 @@
+nav {
+    background-color:#f9dede;
+}
+
+footer {
+    background-color: #f9dede;
+    margin-bottom: 0px;
+}
+
+.nav-link{
+    color: black;;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+
+}
+
+.hero {
+    background-image: url(images/bloomtest.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height:600px;
+}
+
+.textcontent {
+    background-color: #f9ecde;
+}
+
+
+.aboutme {
+    text-align: center;
+}
+
+.carimage {
+    width: 75rem;
+ 
+}
+
+.project-header {
+    text-align: center;
+}
+
+.cards {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+   
+ 
+}
+
+.bi {
+    align-self: center;
+}
+
+.card-body {
+    text-align: center;
+}
+
+
+.contactform {
+   
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .form-label {
+        margin-top:20px;
+    }
+
+    button {
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        background-color: #f9dede;
+        
+    }
+
+    .col-sm-12 {
+        background-color: #f9ecde;
+    }
